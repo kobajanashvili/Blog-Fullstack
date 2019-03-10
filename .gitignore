@@ -1,5 +1,7 @@
 .idea
-keys.js
+.openode
+.vscode
+config/keys.dev.js
 
 # compiled output
 /dist
