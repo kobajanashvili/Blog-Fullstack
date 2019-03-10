@@ -1,5 +1,6 @@
 .idea
-keys.js
+# keys.js
+config/keys.dev.js
 
 # compiled output
 /dist
