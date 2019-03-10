@@ -1,4 +1,6 @@
 .idea
+.openode
+.vscode
 config/keys.dev.js
 
 # compiled output
