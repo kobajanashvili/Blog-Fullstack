@@ -1,6 +1,10 @@
 ﻿# Fullstack-Blog
 
-- Fullstack-Blog(node.js, express, mongoose, MongoDB, MLab)
+- Fullstack-Blog(node.js, express, mongoose, MongoDB, MLab);
+
+- This project was Deploy on service Openode.io
+
+- This project: http://fullstack-blog.openode.io/
 
 <img src="https://images2.imgbox.com/e2/be/DfhrJG7k_o.jpg" alt="image host"/>
 
