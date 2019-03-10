@@ -2,10 +2,14 @@
   "name": "blog_fullstack",
   "version": "1.0.0",
   "description": "simple blog",
-  "main": "app.js",
+  "main": "index.js",
+  "engines": {
+    "node": "10.15.0",
+    "npm": "6.4.1"
+  },
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [
     "blog",
