@@ -8,11 +8,11 @@ const keys = require('./config/keys');
 
 const clientPath = path.join(__dirname, 'client');
 
-// ********** connect MongoDB ************
+// ********** connect MongoDB ****************
 mongoose.connect(keys.mongoURI, { useNewUrlParser: true })
     .then(() => console.log('MongoDB connected.'))
     .catch(err => console.error(err))
-// ********** end connect MongoDB ************
+// ********** end connect MongoDB *************
 
 const app = express();
 
